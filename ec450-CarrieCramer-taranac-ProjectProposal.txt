@@ -1,0 +1,7 @@
+Project Proposal
+
+Team mates: Carrie Cramer and Tarana Chowdhury
+
+We plan to create a line-following robot. This robot will use optical sensors to detect the line and then follow it accordingly.
+ This project involves analyzing sensor inputs and outputting the data to the motor to trigger physical movement of 
+a robot. The main hardware components that we will need are a DC motor, photoresistors, wheels, and a battery.  
